@@ -10,7 +10,7 @@
 
 ### 🎮 Dự án mới: Tank Duel 2D
 
-[**▶ Xem mã game Tank Duel 2D (Python + Pygame)**](https://github.com/buitrungson09-maker/python-journey/tree/main/projects/tank-duel-2d)
+[**▶ Xem mã game Tank Duel 2D (Python + Pygame)**](https://github.com/buitrungson09-maker/buitrungson09-maker/tree/main/tank-duel-2d)
 
 ---
 
@@ -81,7 +81,7 @@
 
 Game xe tăng 2D viết bằng **Python và Pygame**: đấu với máy hoặc hai người, chọn bản đồ và kiểu xe, nhặt vật phẩm, dùng nhiều loại đạn và đấu xếp hạng lưu bằng SQLite.
 
-[![Xem mã game](https://img.shields.io/badge/Xem-Tank_Duel_2D-2EA44F?style=for-the-badge&logo=github)](https://github.com/buitrungson09-maker/python-journey/tree/main/projects/tank-duel-2d)
+[![Xem mã game](https://img.shields.io/badge/Xem-Tank_Duel_2D-2EA44F?style=for-the-badge&logo=github)](https://github.com/buitrungson09-maker/buitrungson09-maker/tree/main/tank-duel-2d)
 
 ---
 
