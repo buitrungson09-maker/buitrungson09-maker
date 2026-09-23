@@ -73,6 +73,14 @@
 
 ---
 
+### 🎮 Tank Duel 2D
+
+Game xe tăng 2D viết bằng **Python và Pygame**: đấu với máy hoặc hai người, chọn bản đồ và kiểu xe, nhặt vật phẩm, dùng nhiều loại đạn và đấu xếp hạng lưu bằng SQLite.
+
+[![Xem mã game](https://img.shields.io/badge/Xem-Tank_Duel_2D-2EA44F?style=for-the-badge&logo=github)](https://github.com/buitrungson09-maker/python-journey/tree/main/projects/tank-duel-2d)
+
+---
+
 ### 🧠 Cấu trúc dữ liệu & Giải thuật
 
 💻 Học và thực hành Cấu trúc dữ liệu & Giải thuật bằng C++.
