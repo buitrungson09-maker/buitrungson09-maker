@@ -8,6 +8,10 @@
 
 </div>
 
+### 🎮 Dự án mới: Tank Duel 2D
+
+[**▶ Xem mã game Tank Duel 2D (Python + Pygame)**](https://github.com/buitrungson09-maker/python-journey/tree/main/projects/tank-duel-2d)
+
 ---
 
 ## 👨‍💻 Giới thiệu về mình
