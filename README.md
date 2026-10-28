@@ -1,157 +1,138 @@
-# 👋 Xin chào, mình là Trung Sơn
-
 <div align="center">
 
-### 💻 Sinh viên Công nghệ Thông tin | 🚀 Hướng tới Lập trình viên
+# 👋 Xin chào! Mình là Bùi Trung Sơn
 
-*Học hỏi • Lập trình • Xây dựng • Phát triển*
+### 💻 IT Student · Python Learner · Aspiring Software Developer
 
-</div>
+**Học từng bước · Làm dự án thật · Kiểm thử · Cải tiến**
 
-### 🎮 Dự án mới: Tank Duel 2D
-
-[**▶ Xem mã game Tank Duel 2D (Python + Pygame)**](https://github.com/buitrungson09-maker/buitrungson09-maker/tree/main/tank-duel-2d)
-
----
-
-## 👨‍💻 Giới thiệu về mình
-
-* 🎓 Mình là sinh viên ngành **Công nghệ Thông tin**
-* 🌱 Hiện đang học **Python, C++, SQL, HTML & CSS**
-* 🧠 Đang tìm hiểu **Cấu trúc dữ liệu & Giải thuật**
-* 🔭 Hiện đang phát triển hành trình học **Python Journey**
-* 💡 Quan tâm đến **Lập trình và Phát triển phần mềm**
-* 🎯 Mục tiêu: Trở thành một **Lập trình viên**
-* ⚡ Luôn muốn học hỏi thêm các công nghệ và kiến thức mới
-
----
-
-## 🛠️ Ngôn ngữ & Công cụ
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github,vscode" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-</p>
-
----
-
-## 📚 Hiện đang học
-
-```text
-🐍 Python              ████████░░
-💻 C++                 ███████░░░
-🗄️ SQL Server          ███████░░░
-🌐 HTML & CSS          ██████░░░░
-🧠 Cấu trúc dữ liệu    ██████░░░░
-🔧 Git & GitHub        ██████░░░░
-```
-
----
-
-## 🚀 Dự án nổi bật
-
-### 🐍 Python Journey
-
-📚 Hành trình học Python của mình từ những kiến thức cơ bản.
-
-**Nội dung:**
-
-* Biến & Kiểu dữ liệu
-* Nhập / Xuất dữ liệu
-* Toán tử
-* Câu lệnh điều kiện
-* Vòng lặp
-* Hàm
-* Mini Project
-
-[![Repository](https://img.shields.io/badge/Xem-Python_Journey-3776AB?style=for-the-badge\&logo=github)](https://github.com/buitrungson09-maker/python-journey)
-
----
-
-### 🎮 Tank Duel 2D
-
-Game xe tăng 2D viết bằng **Python và Pygame**: đấu với máy hoặc hai người, chọn bản đồ và kiểu xe, nhặt vật phẩm, dùng nhiều loại đạn và đấu xếp hạng lưu bằng SQLite.
-
-[![Xem mã game](https://img.shields.io/badge/Xem-Tank_Duel_2D-2EA44F?style=for-the-badge&logo=github)](https://github.com/buitrungson09-maker/buitrungson09-maker/tree/main/tank-duel-2d)
-
----
-
-### 🧠 Cấu trúc dữ liệu & Giải thuật
-
-💻 Học và thực hành Cấu trúc dữ liệu & Giải thuật bằng C++.
-
-**Nội dung:**
-
-* Linked List
-* Stack
-* Queue
-* Tree
-* Graph
-* Algorithms
-
-[![Repository](https://img.shields.io/badge/Xem-DSALab-00599C?style=for-the-badge\&logo=github)](https://github.com/buitrungson09-maker/DSALab)
-
----
-
-## 📊 Thống kê GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=buitrungson09-maker&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buitrungson09-maker&layout=compact&theme=tokyonight" />
+[![GitHub](https://img.shields.io/badge/GitHub-buitrungson09--maker-181717?style=for-the-badge&logo=github)](https://github.com/buitrungson09-maker)
+![Learning](https://img.shields.io/badge/Status-Actively%20Learning-25A18E?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Python%20%7C%20AI%20%7C%20Game%20Dev-3B82F6?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🔥 Chuỗi hoạt động GitHub
+## 👨‍💻 Về mình
+
+- 🎓 Sinh viên ngành **Công nghệ Thông tin** tại **Cao đẳng Công Thương TP.HCM**.
+- 🎯 Mục tiêu: phát triển thành **Software Developer**, hướng tới môi trường làm việc tại **FPT Software**.
+- 🐍 Đang xây dựng nền tảng **Python**, luyện **C++ / DSA**, **SQL Server** và **Git/GitHub**.
+- 🎮 Thực hành làm game với **Pygame** và bắt đầu học **Godot 2D**.
+- 🤖 Khám phá **AI Agent**, quy trình nhiều agent và ứng dụng vào phát triển phần mềm.
+- 🧩 Quan tâm đến cách tổ chức code rõ ràng, kiểm thử tự động và ghi chép quá trình học.
+
+## 🛠️ Công nghệ đang học và sử dụng
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=buitrungson09-maker&theme=tokyonight" />
+![Tech Stack](https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux,html,css)
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=flat-square)
+![Pygame](https://img.shields.io/badge/Pygame-2D%20Games-3776AB?style=flat-square)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-0A9EDC?style=flat-square)
+![Godot](https://img.shields.io/badge/Godot-Getting%20Started-478CBF?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-Packet%20Tracer-0B6793?style=flat-square)
 
 </div>
 
----
+> Các công nghệ trên là **đang học / đã thực hành**, không phải tuyên bố thành thạo.
 
-## 📈 Biểu đồ hoạt động
+## 📚 Tiến độ học tập — cập nhật 28/10/2026
+
+| Lĩnh vực | Đã thực hành | Bước tiếp theo |
+| --- | --- | --- |
+| 🐍 **Python** | Week 01–12: cơ bản, cấu trúc dữ liệu tích hợp, hàm, file I/O, exceptions, Pytest | Week 13: Modules & CLI; Week 14: OOP |
+| 🧠 **AI Agent** | Demo phối hợp 3 vai trò; tìm hiểu OpenClaw / multi-agent | Tích hợp LLM thật, logging, kiểm thử |
+| 💻 **C++ / DSA** | Tìm kiếm, sắp xếp, Linked List, Stack, Queue, BST | Mini project tách file và test case |
+| 🗄️ **SQL Server** | JOIN, View, Procedure, Trigger, phân quyền | Chuẩn hóa bài tập và xây dựng ứng dụng có CSDL |
+| 🎮 **Game 2D** | Tank Duel 2D cơ bản bằng Pygame; trải nghiệm Godot và xuất Android | Gameplay, bản đồ, nhân vật, AI và UI |
+| 🌐 **Mạng & Linux** | Subnetting, Packet Tracer, Fedora, WSL2, SSH, quyền file | Tiếp tục bài lab và quản trị hệ thống |
+| 🌍 **Web** | HTML/CSS cơ bản | JavaScript và xây dựng giao diện |
+
+*Bảng phản ánh quá trình học và các bài thực hành đã trao đổi; trạng thái triển khai từng tính năng cần xem trong repository tương ứng.*
+
+## 🚀 Dự án và repository nổi bật
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 [Python Journey](https://github.com/buitrungson09-maker/python-journey)
+
+Học Python theo tuần, có bài tập, ghi chú và kiểm thử.
+
+**Mốc gần nhất:** Week 12 — Pytest; thực hành mini project và Git.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [Tank Duel 2D](https://github.com/buitrungson09-maker/tank-duel-pygame)
+
+Game xe tăng 2D với **Python + Pygame**.
+
+**Hiện có trong bản cơ bản:** 2 người chơi cùng máy, di chuyển, bắn, HP và thắng/thua. Bot, menu và ranked là kế hoạch mở rộng.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🧩 [DSALab](https://github.com/buitrungson09-maker/DSALab)
+
+Bài học C++17 về **Data Structures & Algorithms**, tìm kiếm, sắp xếp, danh sách liên kết, Stack, Queue và cây.
+
+</td>
+<td valign="top">
+
+### 🤖 [OpenClaw — Learning Fork](https://github.com/buitrungson09-maker/openclaw)
+
+Bản fork phục vụ đọc mã nguồn và thử nghiệm ý tưởng ứng dụng **AI Agent** vào quy trình phát triển game.
+
+**Lưu ý:** quy trình tự động hóa game chưa được xác nhận là đã triển khai hoàn chỉnh.
+
+</td>
+</tr>
+</table>
+
+### 🧪 Mini project 3 AI Agent
+
+Đã thực hành phân vai **Planner → Developer → Reviewer** và ghi nhận kết quả kiểm thử. Hiện hướng tới demo có model AI thực sự, không chỉ mô phỏng bằng câu lệnh cố định.
+
+## 🗺️ Lộ trình tiếp theo
+
+- [x] Python nền tảng đến Week 12 và làm quen Pytest.
+- [x] Sử dụng Git, commit, branch và push lên GitHub.
+- [x] Xây dựng phiên bản nền tảng Tank Duel 2D.
+- [ ] Hoàn thiện Week 13–15, OOP và capstone.
+- [ ] Hoàn thành demo multi-agent gọi mô hình AI thật.
+- [ ] Bổ sung test tự động, README và ảnh chụp demo cho dự án.
+- [ ] Làm một prototype Godot 2D có bản đồ, nhân vật và tương tác.
+- [ ] Hoàn thiện portfolio để chuẩn bị thực tập / ứng tuyển Software Developer.
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buitrungson09-maker&theme=tokyo-night" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=buitrungson09-maker&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buitrungson09-maker&layout=compact&theme=tokyonight&hide_border=true)
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buitrungson09-maker&theme=tokyo-night&hide_border=true)
 
 </div>
 
----
-
-## 🎯 Mục tiêu của mình
-
-* 🐍 Nâng cao kỹ năng lập trình Python
-* 💻 Thành thạo C++ và Cấu trúc dữ liệu & Giải thuật
-* 🗄️ Nâng cao kỹ năng SQL và cơ sở dữ liệu
-* 🌐 Học thêm về phát triển Web
-* 📂 Xây dựng thêm nhiều dự án cá nhân
-* 🤝 Tham gia các dự án mã nguồn mở
-* 🚀 Trở thành một Lập trình viên chuyên nghiệp
+*Biểu đồ dùng dịch vụ cộng đồng nên có thể không hiển thị khi dịch vụ gặp lỗi.*
 
 ---
 
 <div align="center">
 
-### 💻 "Học hỏi • Lập trình • Xây dựng • Phát triển"
+### 🌱 Learn → Build → Test → Improve
 
-![Lượt xem hồ sơ](https://komarev.com/ghpvc/?username=buitrungson09-maker\&style=for-the-badge)
+*Cập nhật nội dung học tập: 28/10/2026*
 
-⭐ Cảm ơn bạn đã ghé thăm GitHub của mình!
+![Profile views](https://komarev.com/ghpvc/?username=buitrungson09-maker&style=flat-square)
 
 </div>
